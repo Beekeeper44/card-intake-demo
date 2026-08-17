@@ -1,0 +1,10 @@
+{
+  "name": "arena-intake-prototype",
+  "version": "4.2.1",
+  "private": true,
+  "description": "Arena Admin V4.2.1 — card intake prototype: PO through release, with the scan app emulator",
+  "scripts": {
+    "dev": "npx serve public -l 3000",
+    "build": "echo \"static site — nothing to build\""
+  }
+}
